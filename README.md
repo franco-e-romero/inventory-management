@@ -23,9 +23,9 @@ The app is built using Next.js and Material-UI for the frontend, with Firebase F
 
 ## Deployment
 
-The app is deployed on [Vercel](https://vercel.com), which provides continuous deployment from your GitHub repository.
+The app is deployed on [Vercel](https://vercel.com), which provides continuous deployment from a given GitHub repository.
 
-To access the live application, visit: [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app).
+To access the live application, visit: [https://inventory-management-franco-romeros-projects.vercel.app/](https://inventory-management-franco-romeros-projects.vercel.app/).
 
 ## Running Locally
 
